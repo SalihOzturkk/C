@@ -1,0 +1,6 @@
+file -> new -> c ->
+
+derleme F9 (ayný zamanda kaydeder)
+çalýþtýr F10
+
+boþ vs c dosyasý boyutu 57mb
